@@ -17,7 +17,7 @@ The program can be run by executing the following command in the terminal:
 python currency_converter.py
 
 # Result
-[result](https://github.com/Sanketarali/Currency-Converter/blob/main/Currency_converter/Result.png)
+![result](https://github.com/Sanketarali/Currency-Converter/blob/main/Currency_converter/Result.png)
 The program takes as input the amount in from_currency and converts it to the desired to_currency. The converted amount is displayed in the terminal.
 
  # Contributing
