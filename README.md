@@ -23,5 +23,4 @@ The program takes as input the amount in from_currency and converts it to the de
  # Contributing
 If you would like to contribute to this project, please create a pull request and I will review it as soon as possible.
 
-# License
-This project is licensed under the MIT License. Please see the LICENSE file for more details
+
